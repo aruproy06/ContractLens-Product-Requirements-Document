@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+# Next.js / Node
+frontend/node_modules/
+frontend/.next/
+.pnpm-store/
+# Local configuration
+frontend/.env.local
